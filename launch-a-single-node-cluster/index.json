@@ -1,0 +1,38 @@
+{
+  "title": "Launch A Single Node Cluster",
+  "description": "Learn how to launch a Single Node Minikube cluster including DNS and Kube UI",
+  "difficulty": "Beginner",
+  "time": "10-15 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 - Start Minikube",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - Cluster Info",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3",
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 4",
+        "text": "step4.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "kubernetes"
+  }
+}
