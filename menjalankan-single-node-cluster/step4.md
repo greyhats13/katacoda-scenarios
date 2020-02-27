@@ -10,4 +10,4 @@ Dashboard Kubernetes memungkinkan Kita melihat aplikasi dalam UI. Dalam deployme
 Untuk melihat progres Dashboard, Lihat Pods dalam namespace kube-system menggunakan perintah
 `kubectl get pods -n kubernetes-dashboard -w`{{execute}}
 
-Setelah berjalan, berikut adalah URL dashboardnya https://[[HOST_SUBDOMAIN]]-[[KATACODA_HOST]].environments.katacoda.com/
+Setelah berjalan, berikut adalah URL dashboardnya https://[[HOST_SUBDOMAIN]]-30000-[[KATACODA_HOST]].environments.katacoda.com/
