@@ -1,3 +1,3 @@
-Minikube is a tool that makes it easy to run Kubernetes locally. Minikube runs a single-node Kubernetes cluster inside a VM on your laptop for users looking to try out Kubernetes or develop with it day-to-day.
+Minikube adalah alat yang memudahkan menjalankan Kubernetes secara lokal. Minikube menjalankan Kubernetes Cluster nodes di dalam VM di laptop Anda untuk pengguna yang ingin mencoba Kubernetes atau mengembangkannya sehari-hari.
 
-More details can be found at https://github.com/kubernetes/minikube
+Rincian lebih lanjut dapat ditemukan di https://github.com/kubernetes/minikube

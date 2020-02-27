@@ -1,11 +1,13 @@
-Enable the dashboard using Minikube with the command minikube addons enable dashboard
+Aktifkan dashboard menggunakan Minikube dengan perintah minikube addons enable dashboard
 
-Make the Kubernetes Dashboard available by deploying the following YAML definition. This should only be used on Katacoda.
+Terapkan Kubernetes Dashboard dengan menggunakan definisi YAML berikut. Ini hanya bisa digunakan di Katacoda.
 
 `kubectl apply -f /opt/kubernetes-dashboard.yaml`{{execute}}
 
-The Kubernetes dashboard allows you to view your applications in a UI. In this deployment, the dashboard has been made available on port 30000 but may take a while to start.
 
-To see the progress of the Dashboard starting, watch the Pods within the kube-system namespace using `kubectl get pods -n kubernetes-dashboard -w`{{execute}}
+Dashboard Kubernetes memungkinkan Kita melihat aplikasi dalam UI. Dalam deployment ini, dashboard telah tersedia di port 30000 tetapi mungkin perlu waktu untuk mulai menjalankannya.
 
-Once running, the URL to the dashboard is https://2886795287-30000-elsy05.environments.katacoda.com/
+Untuk melihat progres Dashboard, Lihat Pods dalam namespace kube-system menggunakan perintah
+`kubectl get pods -n kubernetes-dashboard -w`{{execute}}
+
+Setelah berjalan, berikut adalah URL dashboardnya https://2886795287-30000-elsy05.environments.katacoda.com/

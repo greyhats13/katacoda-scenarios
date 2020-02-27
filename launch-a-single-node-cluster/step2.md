@@ -1,9 +1,9 @@
-The cluster can be interacted with using the kubectl CLI. This is the main approach used for managing Kubernetes and the applications running on top of the cluster.
+Cluster dapat berinteraksi dengan menggunakan kubectl CLI. Ini adalah pendekatan utama yang digunakan untuk mengelola Kubernetes dan aplikasi yang berjalan di atas cluster.
 
-Details of the cluster and its health status can be discovered via `kubectl cluster-info`{{execute}}
+Rincian cluster dan status kesehatannya dapat dilihat dengan perintah `kubectl cluster-info`{{execute}}
 
-To view the nodes in the cluster using `kubectl get nodes`{{execute}}
+Untuk melihat nodes di cluster gunakan perintah `kubectl get nodes`{{execute}}
 
-If the node is marked as NotReady then it is still starting the components.
+Jika node ditandai sebagai NotRead, hal itu berarti node masih memproses komponen-komponennya.
 
-This command shows all nodes that can be used to host our applications. Now we have only one node, and we can see that it’s status is ready (it is ready to accept applications for deployment).
+Perintah ini menunjukkan semua node yang dapat digunakan untuk meng-host aplikasi kita. Sekarang kita hanya memiliki satu node, dan kita dapat melihat bahwa statusnya ready (siap menerima aplikasi untuk deployment).

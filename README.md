@@ -1,10 +1,9 @@
-# Interactive Katacoda Scenarios
+# Skenario Interaktif Katacoda
 
 [![](http://shields.katacoda.com/katacoda/greyhats13/count.svg)](https://www.katacoda.com/greyhats13 "Get your profile on Katacoda.com")
 
-Visit https://www.katacoda.com/greyhats13 to view the profile and interactive scenarios
+Kunjungi https://www.katacoda.com/greyhats13 untuk melihat profil dan skenario interaktif
+### Menulis Skenario
+Kunjungi https://www.katacoda.com/docs untuk belajar tentang cara membuat skenario di Katacoda
 
-### Writing Scenarios
-Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
-
-For examples, visit https://github.com/katacoda/scenario-example
+Untuk contoh, kunjungi https://github.com/katacoda/scenario-example

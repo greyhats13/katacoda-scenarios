@@ -1,3 +1,3 @@
-This scenario has explained how to launch a Single Node Kubernetes cluster. Using Minikube is ideal for development environments and testing Kubernetes locally.
+Skenario ini menjelaskan cara menjalankan Single Node Kubernetes cluster. Menggunakan Minikube sangat ideal untuk lingkungan pengembangan dan menguji Kubernetes secara lokal.
 
-Continue learning about Kubernetes by completing the other Katacoda scenarios.
+Lanjutkan belajar tentang Kubernetes dengan menyelesaikan skenario Katacoda lainnya.

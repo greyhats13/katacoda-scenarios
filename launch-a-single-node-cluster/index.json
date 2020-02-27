@@ -1,24 +1,24 @@
 {
-  "title": "Launch A Single Node Cluster",
-  "description": "Learn how to launch a Single Node Minikube cluster including DNS and Kube UI",
-  "difficulty": "Beginner",
-  "time": "10-15 minutes",
+  "title": "Menjalankan Single Node Cluster",
+  "description": "Pelajari bagaimana cara menjalankan Single Node Minikube cluster meliputi DNS dan Kube UI",
+  "difficulty": "Pemula",
+  "time": "10-15 menit",
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Start Minikube",
+        "title": "Tahap 1 - Memulai Minikube",
         "text": "step1.md"
       },
       {
-        "title": "Step 2 - Cluster Info",
+        "title": "Tahap 2 - Info Cluster",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Tahap 3 - Deploy Containers",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Tahap 4 - Dashboard",
         "text": "step4.md"
       }
     ],
