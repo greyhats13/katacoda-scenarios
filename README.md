@@ -1,6 +1,6 @@
 # Skenario Interaktif Katacoda
 
-[![](http://shields.katacoda.com/katacoda/greyhats13/count.svg)](https://www.katacoda.com/greyhats13 "Get your profile on Katacoda.com")
+[![](http://shields.katacoda.com/katacoda/greyhats13/count.svg)](https://www.katacoda.com/greyhats13 "Dapatkan profil anda di Katacoda.com")
 
 Kunjungi https://www.katacoda.com/greyhats13 untuk melihat profil dan skenario interaktif
 ### Menulis Skenario
